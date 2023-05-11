@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P138Mentor", "P138Mentor\P138Mentor.csproj", "{28B24894-3FF6-4231-B1C4-3D68E4C098F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B24894-3FF6-4231-B1C4-3D68E4C098F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B24894-3FF6-4231-B1C4-3D68E4C098F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B24894-3FF6-4231-B1C4-3D68E4C098F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B24894-3FF6-4231-B1C4-3D68E4C098F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34F25743-1F09-4D2C-BF3A-8D9AC9A7C97F}
+	EndGlobalSection
+EndGlobal
